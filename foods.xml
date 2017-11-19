@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <foods>
 <food>
-	<first_item>Mercimek Çorba</first_item>
-	<second_item>Tas Kebabı</second_item>
-	<third_item>Su Böreği</third_item>
-	<fourth_item>Kapta Yoğurt</fourth_item>
+	<first_item>Crab &amp; Sweetcorn Chowder</first_item>
+	<second_item>Whole Devon Brown Crab</second_item>
+	<third_item>Old Bay Chips</third_item>
+	<fourth_item>White Chocolate &amp; Yoghurt Ganache</fourth_item>
 </food>
 <food>
-	<first_item>İzmir Köfte</first_item>
-	<second_item>Makarna</second_item>
-	<third_item>Mevsim Salata</third_item>
-	<fourth_item>Elma</fourth_item>
+	<first_item>Scottish Sea Trout</first_item>
+	<second_item>Cornish Hake</second_item>
+	<third_item>Tomato Salad</third_item>
+	<fourth_item>British Cheese Selection</fourth_item>
 </food>
 </foods>
