@@ -1,0 +1,25 @@
+<?import javafx.scene.control.DialogPane?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<DialogPane fx:controller="sample.FoodController" xmlns:fx="http://javafx.com/fxml">
+    <headerText>
+        Fill in the information for the new Food
+    </headerText>
+    <content>
+        <GridPane vgap="10" hgap="10">
+            <Label text="First Item: " GridPane.rowIndex="0" GridPane.columnIndex="0"/>
+            <TextField fx:id="firstItemField" GridPane.rowIndex="0" GridPane.columnIndex="1"/>
+
+            <Label text="Second Item: " GridPane.rowIndex="1" GridPane.columnIndex="0"/>
+            <TextField fx:id="secondItemField" GridPane.rowIndex="1" GridPane.columnIndex="1"/>
+
+            <Label text="Third Item: " GridPane.rowIndex="2" GridPane.columnIndex="0"/>
+            <TextField fx:id="thirdItemField" GridPane.rowIndex="2" GridPane.columnIndex="1"/>
+
+            <Label text="Fourth Item: " GridPane.rowIndex="3" GridPane.columnIndex="0"/>
+            <TextField fx:id="fourthItemField" GridPane.rowIndex="3" GridPane.columnIndex="1"/>
+
+        </GridPane>
+    </content>
+</DialogPane>

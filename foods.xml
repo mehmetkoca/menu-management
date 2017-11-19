@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<foods>
+<food>
+	<first_item>Mercimek Çorba</first_item>
+	<second_item>Tas Kebabı</second_item>
+	<third_item>Su Böreği</third_item>
+	<fourth_item>Kapta Yoğurt</fourth_item>
+</food>
+<food>
+	<first_item>İzmir Köfte</first_item>
+	<second_item>Makarna</second_item>
+	<third_item>Mevsim Salata</third_item>
+	<fourth_item>Elma</fourth_item>
+</food>
+</foods>
