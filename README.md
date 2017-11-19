@@ -1,5 +1,5 @@
 # menu-management
-Design and implementation of a cafeteria menu on desktop platform using Java and JavaFx. Application features include display and management (add/delete/edit) of the cafeteria menu.
+Implemented of a cafeteria menu on desktop platform using Java and JavaFx. Application features include display and management (add/delete/edit) of the cafeteria menu.
 
 
 ![Screenshot](mmOne.png)
